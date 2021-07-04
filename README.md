@@ -1,6 +1,6 @@
 # Crack_Software
 
-## SnapGene5.1.5 CRACK Lifetime Trial
+## SnapGene 5.1.5 Lifetime Trial
 
 Installation Instructions:
 
