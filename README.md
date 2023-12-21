@@ -1,4 +1,4 @@
-# Crack_Software
+# Software Tricks
 
 ## SnapGene 5.1.5 Lifetime Trial
 
@@ -11,4 +11,4 @@ Installation Instructions:
 5. After 3 month trial, use TMAC V6 change your MAC adress and return step 3.
 6. Now, you can use Snapgene Lifetime!
 
-### © Copyright 2021 - Đỗ Trần Bình(dtrbinh)
+###dtrbinh
